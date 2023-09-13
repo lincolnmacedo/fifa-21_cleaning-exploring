@@ -27,9 +27,9 @@ Este projeto serviu como um exemplo prático de análise de dados usando Python 
 
 Dependências Principais:
 
-Python 3.x
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Kaggle API
+Python 3.x ,
+Pandas ,
+NumPy ,
+Seaborn ,
+Matplotlib ,
+Kaggle API 
